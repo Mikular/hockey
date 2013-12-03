@@ -1,0 +1,31 @@
+Puck Feature List:
+------------------
+
+Hockey puck working				X
+Tighten up bounding boxes	
+Player knock-down animations	X ish
+Get sounds for impacts			X
+Scoring mechanism set up		X
+User interface implemented		X ish
+Goal handling					
+Player facing puck				X
+Two player controls				X
+Goal reset						X ish
+Players bound to camera view	
+Change colours of goals			X
+
+
+
+remember about colour blindness accessibility
+
+DRUNK ON TOILET WATER
+RUMBLE SCRIPT
+
+====================================================
+====================================================
+
+BEFORE DEMONSTRATION
+====================
+Centre the "GOAL!" image
+Set a limit to the score of 10, go to a victory screen when limit reached.
+FINISH GOAL-SCORING RESET STUFF
